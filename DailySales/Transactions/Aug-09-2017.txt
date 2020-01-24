@@ -1,0 +1,15 @@
+Daily Sales
+Time Printed: Aug-09-2017 10:50:31PM
+
+Daily Profit: $ 12.99
+Daily Revenue: $ 8.00
+
+SALE
+ham
+000000000001
+Date: Aug-09-2017 10:49:26PM
+Revenue: $ 12.99
+Cost: $ 4.99
+Profit: $ 8.00
+Transaction Number: 0
+

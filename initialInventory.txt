@@ -1,0 +1,10 @@
+UPC | name | quantity | price | section | threshold | distributor | cost | aisle
+000000000001 | ham | 40 | 12.99 | meat | 20 | a | 4.99 | 3
+000000000002 | sugar | 100 | 2.99 | packaged products | 20 | b | 0.50 | 5
+000000000003 | milk | 50 | 2.99 | dairy | 20 | c | 0.50 | 10
+000000000004 | blackberries | 30 | 2.99 | produce | 10 | d | 1.00 | 1
+000000000005 | coffee | 8 | 7.99 | packaged products | 10 | b | 1.99 | 6
+000000000006 | cheese | 35 | 5.99 | dairy | 10 | c | 1.99 | 10
+000000000007 | catnip | 40 | 2.99 | pet food | 10 | e | 0.70 | 4
+000000000008 | french fries | 80 | 3.99 | frozen food | 15 | f | 0.50 | 8
+000000000009 | chicken | 40 | 10.99 | meat | 20 | a | 3.99 | 3

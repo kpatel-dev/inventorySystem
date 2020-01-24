@@ -1,0 +1,1791 @@
+Aug-08-2017 8:55:46PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 8:55:46PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 8:55:46PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 8:55:46PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 8:55:46PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 8:55:47PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 8:55:47PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 8:55:47PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 8:55:47PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 8:55:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:55:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:55:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:55:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:55:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 8:55:47PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 8:55:47PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 8:55:47PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 8:55:47PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 8:55:47PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 8:55:47PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 8:55:47PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 8:55:47PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 8:55:47PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 8:55:47PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 8:55:47PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 8:55:47PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 8:55:47PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 8:55:47PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 8:55:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 8:55:47PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 8:55:48PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 8:58:56PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 8:58:56PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 8:58:57PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 8:58:57PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 8:58:57PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 8:58:57PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 8:58:57PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 8:58:57PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 8:58:57PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 8:58:57PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:58:57PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:58:57PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:58:57PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:58:57PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 8:58:57PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 8:58:57PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 8:58:57PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 8:58:57PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 8:58:57PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 8:58:57PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 8:58:57PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 8:58:57PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 8:58:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 8:58:58PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 8:58:58PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 8:58:58PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 8:58:58PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 8:58:58PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 8:58:58PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 8:58:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 8:58:58PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 8:58:58PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 9:01:23PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 9:01:23PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 9:01:23PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 9:01:23PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 9:01:23PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 9:01:23PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 9:01:23PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 9:01:23PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 9:01:23PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:01:47PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 9:01:47PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 9:01:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:01:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:01:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:01:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:01:47PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:01:47PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:01:47PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 9:01:47PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 9:01:47PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 9:01:47PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 9:01:47PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 9:01:47PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 9:01:47PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:01:47PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:01:47PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 9:01:47PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 9:01:47PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 9:01:47PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 9:01:47PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 9:01:47PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:01:47PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:01:47PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:01:47PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 9:01:47PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 9:01:57PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 9:01:57PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 9:01:58PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 9:01:58PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 9:01:58PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 9:01:58PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 9:01:58PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 9:01:58PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 9:01:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 9:01:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:02:52PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 9:02:59PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 9:03:02PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:02PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:02PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:02PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:02PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:03:06PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 9:03:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:03:06PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 9:03:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 9:03:06PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 9:03:06PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 9:03:07PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 9:03:07PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 9:03:07PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 9:03:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 9:03:07PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 9:03:07PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 9:03:07PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 9:03:07PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 9:03:07PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:03:07PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:03:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:03:07PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 9:03:07PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 9:03:44PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 9:03:44PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 9:03:44PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 9:03:44PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 9:03:44PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:03:44PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 9:03:44PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 9:03:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:03:44PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:03:44PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 9:03:44PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 9:03:44PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 9:03:44PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 9:03:44PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 9:03:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 9:03:45PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:45PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:45PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:45PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:45PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:03:45PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 9:03:45PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 9:03:45PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 9:03:45PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 9:03:45PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 9:03:45PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 9:03:45PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:03:45PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:03:45PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:03:45PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 9:03:45PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 9:03:57PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 9:03:57PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 9:03:57PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 9:03:57PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 9:03:57PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 9:03:57PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 9:03:57PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 9:03:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 9:03:57PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:03:57PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 9:07:10PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 9:07:10PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 9:07:10PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 9:07:10PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 9:07:10PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 9:07:10PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 9:07:11PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:07:11PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 9:07:11PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 9:07:11PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:07:11PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:07:11PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:07:11PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:07:11PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:07:11PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:07:11PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 9:07:11PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 9:07:11PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 9:07:11PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 9:07:11PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 9:07:11PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 9:07:11PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 9:07:11PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 9:07:11PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 9:07:11PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 9:07:11PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:07:11PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 9:07:11PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 9:07:11PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 9:07:12PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 9:09:44PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 9:09:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:09:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:09:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:09:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:09:44PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:09:44PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 9:09:44PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 9:09:44PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 9:09:44PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 9:09:44PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 9:09:44PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 9:09:44PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 9:09:44PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 9:09:44PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:57PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 11:38:57PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 11:38:57PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 11:38:57PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 11:38:57PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 11:38:57PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 11:38:57PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 11:38:58PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 11:38:58PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 11:38:58PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:38:58PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:38:58PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:38:58PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:38:58PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 11:38:58PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 11:38:58PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 11:38:58PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 11:38:58PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 11:38:58PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 11:38:58PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 11:38:58PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 11:38:58PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 11:38:58PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 11:38:58PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 11:38:58PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 11:38:58PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 11:38:58PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 11:38:58PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 11:38:59PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 11:38:59PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 11:38:59PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 11:42:05PM     PriceManager     registerProduct
+Event: registered the list of products to priceManager
+
+Aug-08-2017 11:42:05PM     StockManager     registerProduct
+Event: Product 000000000001 is in stock.
+
+Aug-08-2017 11:42:05PM     StockManager     registerProduct
+Event: Product 000000000001 was registered into stock manager.
+
+Aug-08-2017 11:42:05PM     StockManager     registerProduct
+Event: Product 000000000002 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000002 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000003 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000003 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000004 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000004 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000005 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000005 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000006 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000006 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000007 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000007 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000008 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000008 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000009 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000009 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     InventoryManager     setStoreProducts
+Event: the store products were set
+
+Aug-08-2017 11:42:06PM     InventoryLoader     sendProducts
+Event: Initial inventory was loaded from a .txt file.
+
+Aug-08-2017 11:42:06PM     UserManager     registerUser
+Event: User user1 was registered to user manager.
+
+Aug-08-2017 11:42:06PM     DailySalesManager     displayTotals
+Event: the daily totals were displayed
+
+Aug-08-2017 11:42:06PM     UserManager     registerUser
+Event: User user2 was registered to user manager.
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 00000000005
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 11:42:06PM     OrderManager     makeOrder
+Event: Order made for coffee
+
+Aug-08-2017 11:42:06PM     StockManager     remove
+Event: Product 000000000005's quantity was decreased by 5.
+
+Aug-08-2017 11:42:06PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:42:06PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:42:06PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:42:06PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:42:06PM     DailySalesManager     saleTransaction
+Event: a new Sale was made for coffee
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 11:42:06PM     StockManager     add
+Event: Product 000000000003's quantity was increased by 6.
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000003
+
+Aug-08-2017 11:42:06PM     UserManager     checkUserCredentials
+Event: User user1 logged in successfully.
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000010
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000010 is in stock.
+
+Aug-08-2017 11:42:06PM     StockManager     registerProduct
+Event: Product 000000000010 was registered into stock manager.
+
+Aug-08-2017 11:42:06PM     InventoryManager     addProduct
+Event: ice cream was added to the system
+
+Aug-08-2017 11:42:06PM     InventoryManager     addProduct
+Event: ice cream already exists. It was not added to the system.
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000004
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000002
+
+Aug-08-2017 11:42:06PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000007
+
+Aug-08-2017 11:42:07PM     PriceManager     printPriceHistory
+Event: the price history of catnip was printed to a file
+
+Aug-08-2017 11:42:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000006
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     OrderManager     printOrderHistory
+Event: Order history printed.
+
+Aug-08-2017 11:42:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000001
+
+Aug-08-2017 11:42:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000008
+
+Aug-08-2017 11:42:07PM     PriceManager     deleteProduct
+Event: french fries was removed from priceManager
+
+Aug-08-2017 11:42:07PM     PriceManager     changePrice
+Event: the price of french fries was changed
+
+Aug-08-2017 11:42:07PM     PriceManager     printPricesOfList
+Event: the price list On-Sale-List was printed to a file
+
+Aug-08-2017 11:42:07PM     PriceManager     printPricesOfList
+Event: the price list Upcoming-Sales-List was printed to a file
+
+Aug-08-2017 11:42:07PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 11:42:07PM     DailySalesManager     printDailySales
+Event: the list of dailySales was print to a file
+
+Aug-08-2017 11:42:07PM     InventoryManager     findProduct
+Event: searched for the UPC inputted: 000000000005
+
+Aug-08-2017 11:42:07PM     OrderManager     processIncomingOrder
+Event: Incoming order for000000000005processed.
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: LocationManager was added to LocationManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: PriceManager was added to PriceManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: StockManager was added to StockManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: InventoryManager was added to InventoryManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: DailySalesManager was added to DailySalesManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: UserManager was added to UserManager.ser
+
+Aug-08-2017 11:42:07PM     SerializationStrategy     execute
+Event: OrderManager was added to OrderManager.ser
+

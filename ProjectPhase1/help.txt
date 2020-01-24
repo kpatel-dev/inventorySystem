@@ -1,0 +1,31 @@
+Instructions for marker:
+
+
+SET UP
+During the program set-up, make sure to set the ProjectPhase1 directory as the output directory.
+Do this by going to file, then to project structure, then to project. At the bottom, set the project
+compiler output to ProjectPhase1 and click apply. The sales list, price lists, and daily
+sales list will be sent to the same directory as the one that ProjectPhase1 is in. These files can
+be accessed here or moved from here to be saved somewhere else.There will also be a Logs directory
+inside the ProjectPhase1 directory. All the logs will be stored here according to the date.
+
+FIRST RUN OF PROGRAM
+When running the program for the first time, make sure line 21 is uncommented. The initialEvents.txt
+file has a line-by-line input that mimics what a real user might type, in the order that the program
+asks. It loads the initial inventory from initialInventory.txt, goes through user registration, and
+then goes through all of the possible user commands. Throughout this process, some things may be
+saved onto .txt files or printed into the console. The input from the initialEvents.txt is not
+printed into the console, so it may be a bit difficult to follow. Refer to initialEvents.txt to see
+which commands were inputted. Once the program ends, there will be .ser files in the ProjectPhase1
+directory.
+
+LOADING SYSTEM FROM .SER FILES
+To test the serializable functionality, comment out line 21 and uncomment line 23. The program will
+now load the data serialized from the first run of the program. There are a couple of sample lines
+where a user registered in the first run of the program logs in again in this run of the program
+without having to re-register, showing that the data was successfully serialized and deserialized.
+
+ORDER OUTPUT
+Orders are output as text documents, under the OrderList folder that will be created in the main
+directory. The user can then choose to copy the contents of the file to "send" out the order. These
+files will be automatically deleted when an order comes in and is processed.

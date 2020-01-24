@@ -1,0 +1,51 @@
+Daily Sales
+Time Printed: Aug-08-2017 11:42:07PM
+
+Daily Profit: $ 39.95
+Daily Revenue: $ 30.00
+
+SALE
+coffee
+000000000005
+Date: Aug-08-2017 11:42:06PM
+Revenue: $ 7.99
+Cost: $ 1.99
+Profit: $ 6.00
+Transaction Number: 0
+
+SALE
+coffee
+000000000005
+Date: Aug-08-2017 11:42:06PM
+Revenue: $ 7.99
+Cost: $ 1.99
+Profit: $ 6.00
+Transaction Number: 1
+
+SALE
+coffee
+000000000005
+Date: Aug-08-2017 11:42:06PM
+Revenue: $ 7.99
+Cost: $ 1.99
+Profit: $ 6.00
+Transaction Number: 2
+
+SALE
+coffee
+000000000005
+Date: Aug-08-2017 11:42:06PM
+Revenue: $ 7.99
+Cost: $ 1.99
+Profit: $ 6.00
+Transaction Number: 3
+
+SALE
+coffee
+000000000005
+Date: Aug-08-2017 11:42:06PM
+Revenue: $ 7.99
+Cost: $ 1.99
+Profit: $ 6.00
+Transaction Number: 4
+

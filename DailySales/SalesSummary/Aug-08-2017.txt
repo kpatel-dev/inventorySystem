@@ -1,0 +1,11 @@
+Daily Sales
+Time Printed: Aug-08-2017 11:42:07PM
+
+Daily Profit: $ 39.95
+Daily Revenue: $ 30.00
+
+coffee
+000000000005 x5
+Product Daily Revenue = 39.95
+Product Daily Profit = 30.0
+

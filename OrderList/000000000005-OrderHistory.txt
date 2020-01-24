@@ -1,0 +1,6 @@
+Aug-09-2017 1:27:44AM ordered: 000000000005, coffee, b, 30
+Aug-09-2017 1:27:45AM received order for 000000000005
+Aug-09-2017 1:30:38AM ordered: 000000000005, coffee, b, 30
+Aug-09-2017 1:30:39AM received order for 000000000005
+Aug-09-2017 1:43:50AM ordered: 000000000005, coffee, b, 30
+Aug-09-2017 1:43:52AM received order for 000000000005

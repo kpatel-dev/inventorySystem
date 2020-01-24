@@ -1,0 +1,11 @@
+Daily Sales
+Time Printed: Aug-09-2017 10:50:31PM
+
+Daily Profit: $ 12.99
+Daily Revenue: $ 8.00
+
+ham
+000000000001 x1
+Product Daily Revenue = 4.99
+Product Daily Profit = 0.0
+

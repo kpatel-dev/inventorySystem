@@ -1,0 +1,67 @@
+No
+N
+N
+Y
+initialInventory.txt
+New User
+user1
+Manger
+Manager
+password
+Pending orders
+Daily totals
+All commands
+Log out
+New User
+user1
+user2
+Cashier
+password
+Sell item
+00000000005
+000000000005
+five
+5
+Change quantity of items in stock
+add
+000000000003
+6
+Check sale price and dates
+000000000003
+Log out
+Manager
+user1
+password
+Scan new item
+000000000010
+ice cream
+60
+4.99
+dairy
+20
+c
+0.99
+Product location
+000000000004
+Product cost
+000000000002
+Product price history
+000000000007
+Product current price
+000000000006
+Order history
+Product current quantity
+000000000001
+Change product price
+000000000008
+sale
+2.99
+2017-07-29
+2017-aug-04
+2017-08-04
+Print on sale items
+Print upcoming sale items
+Daily sales
+Scan existing item
+000000000005
+Shut down

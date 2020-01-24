@@ -1,0 +1,26 @@
+Duties
+
+HehRee Lee:
+- Main responsibilities: User and subclasses, FileLoader and subclasses, StockManager, StoreSimulator, UserManager
+- Wrote most of the code for classes under main responsibilities
+- Wrote the sample files initialEvents.txt, existingInventoryEvents.txt, and initialInventory.txt
+
+
+Sharon Liu:
+- Main responsibilities: LocationManager, Section
+- Some part of addUser in UserManager
+- Creation of UML pdf
+
+
+Kajal Patel:
+- Main responsibilities: DailySalesManager, Sale, InventoryManager,PriceManager, Price, Logger
+- Implemented all details for classes mentioned in "Main Responsibilities"
+- Logger class can set up the log text file, and its static method can be called to input to the text file
+- Added some set up info in help.txt
+
+
+Xue Zhang:
+- Main responsibilities: Product, Order, OrderManager
+- Information a Product holds and how it should interact with classes that use it
+- How Orders are set up and modified, processing incoming orders, making new orders, outputting order files
+- Parts of StoreSimulator related to orders, and user cases

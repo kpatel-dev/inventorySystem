@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="generator" content="HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.18.1), see www.w3.org">
+        <title>
+            CSC207H: Project
+        </title>
+    </head>
+    <body>
+        <h1>
+            CSC207H: Project
+        </h1>
+        <p>
+            <strong>Group size:</strong> 3 or 4
+        </p>
+        <p>
+            <strong>Summary:</strong> Design and implement a system for storing and changing information about the inventory of a grocery store.
+        </p>
+	<h2>
+            Learning objectives
+        </h2>
+        <p>
+            By the end of this project, you will have
+        </p>
+        <ul>
+            <li>read and understood the requirements for a project
+            </li>
+            <li>used the design concepts taught in class
+            </li>
+            <li>shared the design process with other people
+            </li>
+            <li>designed a Java program that solves the problem
+            </li>
+            <li>implemented your design
+            </li>
+            <li>worked with related code that others are developing at the same time as you are developing yours
+            </li>
+            <li>worked with Google's style formatter
+            </li>
+            <li>worked with version control on a project with other people
+            </li>
+        </ul>
+        <h2>
+            Problem domain
+        </h2>
+        <p>
+Your client is a grocery store. They want you to create an inventory system to track their products as each one is entered into the system ("received"), stored on the shelves, sold, and re-ordered. The system will also keep track of the cost of each item to the store, price of each item to the customer, and profit earned from selling each. Products are re-ordered from the distributer if the quantity dips below a certain threshold. Each product has its own threshold. After talking to the client, you have determined that the software should conform to the following specifications.
+        </p>
+        <p>
+It is your responsibility to familiarize yourself with UPCs (Universal Price Codes) and other features of inventory systems. You can research these on the internet, other written materials, or by interviewing someone who works at a store. It is your job to convince the client that you understand their needs and can produce software that makes their life easier.
+        </p>
+        <p>
+	<p>
+            Below is a more detailed description of the problem the company has asked you to solve, such as you might receive in an initial email from the company.
+        </p>
+        <p>
+            The requirements may not be complete. We recommend that one or more group members monitor the discussion board. Clarifications and clarifications there will be pinned, and are required reading by your group.
+        </p>
+	<h2>
+            The requirements from the grocery store
+        </h2>
+        <p>
+		Our grocery store sells produce, dairy, meat, packaged products, frozen food, cleaning supplies, pet food, kitchen wares, and seasonal products. We order each product from its distributer. When the product arrives, we want to be able to scan it into our system, place it on a shelf, and scan it out of the system when a customer buys it. We use this system to keep track of prices, sales, and the profit earned from each sale, to see if the store remains profitable.
+	</p>
+	<h2>
+            Technical requirements
+        </h2>
+	<h3>
+The system should keep track of:
+	</h3>
+<ul>
+<li>which products are in stock, 
+</li>
+<li>the quantity and price of each product, 
+</li>
+<li>whether the product is on sale and, if so, its sale price, and also its price history
+</li>
+<li>which section of the store contains the product (frozen section, produce, etc.) and its subsection (beverages, chips, organic produce, fruit, etc.)
+</li>
+<li>which aisle contains the product
+</li>
+<li>the threshold quantity below which the software automatically re-orders the product
+</li>
+<li>the UPC (universal product code for the product)
+</li>
+<li>the order history of each product
+</li>
+</ul>
+ 	<h3>
+Input:
+	</h3>
+<ul>
+<li>the scanner tells the system to subtract one from the quantity of that unit
+</li>
+<li>user can enter the sale price for sale products along with the start and end date of the sale
+</li>
+<li>user can enter new products into the system when they arrive by truck (also with a scanner)
+</li>
+<li>when the layout of the store changes, the user can enter a description of the aisle
+  numbers for each section that will change the stored location of a product
+</li>
+<li>users can enter queries by hand (For example: Where is an item located? What is the current price of the product with a given upc? When was a certain product last ordered? How many units of a certain product are in the store? any other features that you think will be useful to a clerk or manager working at that store)
+</li>
+</ul>
+	<h3>
+Output:
+	</h3>
+<ul>
+<li>the result of user queries should be displayed to the screen
+</li>
+<li>any list (e.g., all products currently on sale, all products that are currently on back order, etc.) should be written to a file that can be sent to a printer or stored to memory.
+</li>
+<li>Re-ordering a product can be done by sending an order request to the distributor. Since we cannot connect with the distributers' systems (we don't know who they are yet), you have to find a way to create orders and send them somewhere to be stored. Also you must document when each order is sent so that it is possible to check the overall order history on the system.
+</li>
+</ul>
+	<h2>
+	Final Note:
+	</h2>
+	<p>
+The program should be easy to modify, extend, and maintain. It should also reflect the SOLID principles of object oriented programming. <b>There will be more details arriving from your "customer" arriving in your group repository</b>, so that later on, a single class may be replaced with a number of related classes.
+	</p>
+	<p>
+With such a project, you may find that you have questions for your client regarding what they want or how they want certain features to work. Here, the course instructor plays the role of the client. Please post your questions to the discussion board so that everyone can see the response.
+	<p>
